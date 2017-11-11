@@ -1,0 +1,6 @@
+[I 21:42:18.429 NotebookApp] The port 8585 is already in use, trying another port.
+[I 21:42:18.439 NotebookApp] Serving notebooks from local directory: /home/viral/repo/pytorch_crepe
+[I 21:42:18.439 NotebookApp] 0 active kernels
+[I 21:42:18.439 NotebookApp] The Jupyter Notebook is running at:
+[I 21:42:18.439 NotebookApp] http://0.0.0.0:8586/
+[I 21:42:18.439 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).

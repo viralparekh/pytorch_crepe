@@ -34,3 +34,4 @@ run them each time. The most important parameters, other than running it on a
 GPU, is the CNMeM allocation variable, which allows for much faster runtimes.
 When combined with cuDNN there's a rather drastic speedup when compared to the
 original Lua/Torch implementation.
+# pytorch_crepe
